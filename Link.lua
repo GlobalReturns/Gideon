@@ -54,7 +54,7 @@ TeamColor = LocalPlayer.TeamColor,
 },
 Players = {
 LocalPlayer,
-342432803
+1
 }
 }
 }
